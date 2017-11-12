@@ -1,5 +1,5 @@
-# android_app
-contents of android app
+# Resources
+contents of Resources
 
 
 
