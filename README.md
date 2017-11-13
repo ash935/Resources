@@ -1,5 +1,5 @@
 # Resources
-contents of Resources
+Miscellaneous items
 
 
 
